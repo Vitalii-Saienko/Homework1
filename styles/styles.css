@@ -1,0 +1,26 @@
+/* Требования:
+Текст для блоков произвольный. 
+Для стилей используйте параметры:
++background-color: #34495E 
++border-radius: 20px 
+padding: 21px  */
+.firstPage{
+    color: rgb(239, 232, 232);
+    font-size: large;
+    text-align: left;
+    /* letter-spacing: 1pc; */
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid gray ;
+    margin: 20px;
+
+    background-color: #34495E ;
+    border-radius: 20px;
+    padding: 21px;
+}
+h1{
+    color: rgb(17, 17, 17);
+    font-size: xx-large;
+}
+a{
+    font-size: larger;
+}
